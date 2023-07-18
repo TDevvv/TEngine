@@ -1,0 +1,5 @@
+img 'src\\main\\resources\\assets\\textures\\atlas.png'
+scale 392,483
+split 56,69
+count 42
+spacing 0

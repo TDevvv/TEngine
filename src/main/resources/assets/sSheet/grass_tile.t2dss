@@ -1,0 +1,5 @@
+img 'C:\Users\Beytullah\TEngine\src\main\resources\assets\textures\sprout\Tilesets\Grass.png'
+scale 160,128
+split 16,16
+count 80
+spacing 0

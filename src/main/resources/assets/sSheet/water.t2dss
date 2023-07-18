@@ -1,0 +1,5 @@
+img 'C:\Users\Beytullah\TEngine\src\main\resources\assets\textures\sprout\Tilesets\Water.png'
+scale 64,16
+split 16,16
+count 4
+spacing 0

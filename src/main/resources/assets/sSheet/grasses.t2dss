@@ -1,0 +1,5 @@
+img 'src\\main\\resources\\assets\\textures\\grasses.png'
+scale 256,384
+split 64,64
+count 24
+spacing 0

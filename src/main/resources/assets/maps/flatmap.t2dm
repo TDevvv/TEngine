@@ -1,0 +1,555 @@
+create object fix1
+create object gt0
+create object gt1
+create object gt2
+create object gt3
+create object gt4
+create object gt5
+create object gt6
+create object gt7
+create object gt8
+create object gt9
+create object gt10
+create object gt11
+create object gt12
+create object gt13
+create object gt14
+create object gt15
+create object gt16
+create object gt17
+create object gt18
+create object gt19
+create object gt20
+create object gt21
+create object gt22
+create object gt23
+create object gt24
+create object gt25
+create object gt26
+create object gt27
+create object gt28
+create object gt29
+create object gt30
+create object gt31
+create object gt32
+create object gt33
+create object gt34
+create object gt35
+create object gt36
+create object gt37
+create object gt38
+create object gt39
+create object gt40
+create object gt41
+create object gt42
+create object gt43
+create object gt44
+create object gt45
+create object gt46
+create object gt47
+create object gt48
+create object gt49
+create object gt50
+create object gt51
+create object gt52
+create object gt53
+create object gt54
+create object gt55
+create object gt56
+create object gt57
+create object gt58
+create object gt59
+create object gt60
+create object gt61
+create object gt62
+create object gt63
+create object gt64
+create object gt65
+create object gt66
+create object gt67
+create object gt68
+create object gt69
+create object gt70
+create object gt71
+create object gt72
+create object gt73
+create object gt74
+create object gt75
+create object gt76
+create object gt77
+create object gt78
+create object gt79
+create img gts0 'grass_tile' 0
+create img gts1 'grass_tile' 1
+create img gts2 'grass_tile' 2
+create img gts3 'grass_tile' 3
+create img gts4 'grass_tile' 4
+create img gts5 'grass_tile' 5
+create img gts6 'grass_tile' 6
+create img gts7 'grass_tile' 7
+create img gts8 'grass_tile' 8
+create img gts9 'grass_tile' 9
+create img gts10 'grass_tile' 10
+create img gts11 'grass_tile' 11
+create img gts12 'grass_tile' 12
+create img gts13 'grass_tile' 13
+create img gts14 'grass_tile' 14
+create img gts15 'grass_tile' 15
+create img gts16 'grass_tile' 16
+create img gts17 'grass_tile' 17
+create img gts18 'grass_tile' 18
+create img gts19 'grass_tile' 19
+create img gts20 'grass_tile' 20
+create img gts21 'grass_tile' 21
+create img gts22 'grass_tile' 22
+create img gts23 'grass_tile' 23
+create img gts24 'grass_tile' 24
+create img gts25 'grass_tile' 25
+create img gts26 'grass_tile' 26
+create img gts27 'grass_tile' 27
+create img gts28 'grass_tile' 28
+create img gts29 'grass_tile' 29
+create img gts30 'grass_tile' 30
+create img gts31 'grass_tile' 31
+create img gts32 'grass_tile' 32
+create img gts33 'grass_tile' 33
+create img gts34 'grass_tile' 34
+create img gts35 'grass_tile' 35
+create img gts36 'grass_tile' 36
+create img gts37 'grass_tile' 37
+create img gts38 'grass_tile' 38
+create img gts39 'grass_tile' 39
+create img gts40 'grass_tile' 40
+create img gts41 'grass_tile' 41
+create img gts42 'grass_tile' 42
+create img gts43 'grass_tile' 43
+create img gts44 'grass_tile' 44
+create img gts45 'grass_tile' 45
+create img gts46 'grass_tile' 46
+create img gts47 'grass_tile' 47
+create img gts48 'grass_tile' 48
+create img gts49 'grass_tile' 49
+create img gts50 'grass_tile' 50
+create img gts51 'grass_tile' 51
+create img gts52 'grass_tile' 52
+create img gts53 'grass_tile' 53
+create img gts54 'grass_tile' 54
+create img gts55 'grass_tile' 55
+create img gts56 'grass_tile' 56
+create img gts57 'grass_tile' 57
+create img gts58 'grass_tile' 58
+create img gts59 'grass_tile' 59
+create img gts60 'grass_tile' 60
+create img gts61 'grass_tile' 61
+create img gts62 'grass_tile' 62
+create img gts63 'grass_tile' 63
+create img gts64 'grass_tile' 64
+create img gts65 'grass_tile' 65
+create img gts66 'grass_tile' 66
+create img gts67 'grass_tile' 67
+create img gts68 'grass_tile' 68
+create img gts69 'grass_tile' 69
+create img gts70 'grass_tile' 70
+create img gts71 'grass_tile' 71
+create img gts72 'grass_tile' 72
+create img gts73 'grass_tile' 73
+create img gts74 'grass_tile' 74
+create img gts75 'grass_tile' 75
+create img gts76 'grass_tile' 76
+create img gts77 'grass_tile' 77
+create img gts78 'grass_tile' 78
+create img gts79 'grass_tile' 79
+gt0 width 40
+gt0 height 40
+gt0 img gts0
+gt0 pointer 0
+gt1 width 40
+gt1 height 40
+gt1 img gts1
+gt1 pointer null
+gt2 width 40
+gt2 height 40
+gt2 img gts2
+gt2 pointer null
+gt3 width 40
+gt3 height 40
+gt3 img gts3
+gt3 pointer null
+gt4 width 40
+gt4 height 40
+gt4 img gts4
+gt4 pointer 2
+gt5 width 40
+gt5 height 40
+gt5 img gts5
+gt5 pointer null
+gt6 width 40
+gt6 height 40
+gt6 img gts6
+gt6 pointer null
+gt7 width 40
+gt7 height 40
+gt7 img gts7
+gt7 pointer null
+gt8 width 40
+gt8 height 40
+gt8 img gts8
+gt8 pointer null
+gt9 width 40
+gt9 height 40
+gt9 img gts9
+gt9 pointer null
+gt10 width 40
+gt10 height 40
+gt10 img gts10
+gt10 pointer null
+gt11 width 40
+gt11 height 40
+gt11 img gts11
+gt11 pointer null
+gt12 width 40
+gt12 height 40
+gt12 img gts12
+gt12 pointer null
+gt13 width 40
+gt13 height 40
+gt13 img gts13
+gt13 pointer null
+gt14 width 40
+gt14 height 40
+gt14 img gts14
+gt14 pointer null
+gt15 width 40
+gt15 height 40
+gt15 img gts15
+gt15 pointer null
+gt16 width 40
+gt16 height 40
+gt16 img gts16
+gt16 pointer null
+gt17 width 40
+gt17 height 40
+gt17 img gts17
+gt17 pointer null
+gt18 width 40
+gt18 height 40
+gt18 img gts18
+gt18 pointer null
+gt19 width 40
+gt19 height 40
+gt19 img gts19
+gt19 pointer null
+gt20 width 40
+gt20 height 40
+gt20 img gts20
+gt20 pointer null
+gt21 width 40
+gt21 height 40
+gt21 img gts21
+gt21 pointer null
+gt22 width 40
+gt22 height 40
+gt22 img gts22
+gt22 pointer null
+gt23 width 40
+gt23 height 40
+gt23 img gts23
+gt23 pointer null
+gt24 width 40
+gt24 height 40
+gt24 img gts24
+gt24 pointer null
+gt25 width 40
+gt25 height 40
+gt25 img gts25
+gt25 pointer null
+gt26 width 40
+gt26 height 40
+gt26 img gts26
+gt26 pointer null
+gt27 width 40
+gt27 height 40
+gt27 img gts27
+gt27 pointer null
+gt28 width 40
+gt28 height 40
+gt28 img gts28
+gt28 pointer null
+gt29 width 40
+gt29 height 40
+gt29 img gts29
+gt29 pointer null
+gt30 width 40
+gt30 height 40
+gt30 img gts30
+gt30 pointer null
+gt31 width 40
+gt31 height 40
+gt31 img gts31
+gt31 pointer null
+gt32 width 40
+gt32 height 40
+gt32 img gts32
+gt32 pointer null
+gt33 width 40
+gt33 height 40
+gt33 img gts33
+gt33 pointer null
+gt34 width 40
+gt34 height 40
+gt34 img gts34
+gt34 pointer null
+gt35 width 40
+gt35 height 40
+gt35 img gts35
+gt35 pointer null
+gt36 width 40
+gt36 height 40
+gt36 img gts36
+gt36 pointer null
+gt37 width 40
+gt37 height 40
+gt37 img gts37
+gt37 pointer null
+gt38 width 40
+gt38 height 40
+gt38 img gts38
+gt38 pointer null
+gt39 width 40
+gt39 height 40
+gt39 img gts39
+gt39 pointer null
+gt40 width 40
+gt40 height 40
+gt40 img gts40
+gt40 pointer null
+gt41 width 40
+gt41 height 40
+gt41 img gts41
+gt41 pointer null
+gt42 width 40
+gt42 height 40
+gt42 img gts42
+gt42 pointer null
+gt43 width 40
+gt43 height 40
+gt43 img gts43
+gt43 pointer null
+gt44 width 40
+gt44 height 40
+gt44 img gts44
+gt44 pointer null
+gt45 width 40
+gt45 height 40
+gt45 img gts45
+gt45 pointer null
+gt46 width 40
+gt46 height 40
+gt46 img gts46
+gt46 pointer null
+gt47 width 40
+gt47 height 40
+gt47 img gts47
+gt47 pointer null
+gt48 width 40
+gt48 height 40
+gt48 img gts48
+gt48 pointer null
+gt49 width 40
+gt49 height 40
+gt49 img gts49
+gt49 pointer null
+gt50 width 40
+gt50 height 40
+gt50 img gts50
+gt50 pointer null
+gt51 width 40
+gt51 height 40
+gt51 img gts51
+gt51 pointer null
+gt52 width 40
+gt52 height 40
+gt52 img gts52
+gt52 pointer null
+gt53 width 40
+gt53 height 40
+gt53 img gts53
+gt53 pointer null
+gt54 width 40
+gt54 height 40
+gt54 img gts54
+gt54 pointer null
+gt55 width 40
+gt55 height 40
+gt55 img gts55
+gt55 pointer null
+gt56 width 40
+gt56 height 40
+gt56 img gts56
+gt56 pointer null
+gt57 width 40
+gt57 height 40
+gt57 img gts57
+gt57 pointer null
+gt58 width 40
+gt58 height 40
+gt58 img gts58
+gt58 pointer null
+gt59 width 40
+gt59 height 40
+gt59 img gts59
+gt59 pointer null
+gt60 width 40
+gt60 height 40
+gt60 img gts60
+gt60 pointer null
+gt61 width 40
+gt61 height 40
+gt61 img gts61
+gt61 pointer null
+gt62 width 40
+gt62 height 40
+gt62 img gts62
+gt62 pointer null
+gt63 width 40
+gt63 height 40
+gt63 img gts63
+gt63 pointer null
+gt64 width 40
+gt64 height 40
+gt64 img gts64
+gt64 pointer null
+gt65 width 40
+gt65 height 40
+gt65 img gts65
+gt65 pointer null
+gt66 width 40
+gt66 height 40
+gt66 img gts66
+gt66 pointer null
+gt67 width 40
+gt67 height 40
+gt67 img gts67
+gt67 pointer null
+gt68 width 40
+gt68 height 40
+gt68 img gts68
+gt68 pointer null
+gt69 width 40
+gt69 height 40
+gt69 img gts69
+gt69 pointer null
+gt70 width 40
+gt70 height 40
+gt70 img gts70
+gt70 pointer null
+gt71 width 40
+gt71 height 40
+gt71 img gts71
+gt71 pointer null
+gt72 width 40
+gt72 height 40
+gt72 img gts72
+gt72 pointer null
+gt73 width 40
+gt73 height 40
+gt73 img gts73
+gt73 pointer null
+gt74 width 40
+gt74 height 40
+gt74 img gts74
+gt74 pointer null
+gt75 width 40
+gt75 height 40
+gt75 img gts75
+gt75 pointer null
+gt76 width 40
+gt76 height 40
+gt76 img gts76
+gt76 pointer null
+gt77 width 40
+gt77 height 40
+gt77 img gts77
+gt77 pointer null
+gt78 width 40
+gt78 height 40
+gt78 img gts78
+gt78 pointer null
+gt79 width 40
+gt79 height 40
+gt79 img gts79
+gt79 pointer null
+
+create object wt0
+create object wt1
+create object wt2
+create object wt3
+create img wts0 'water' 0
+create img wts1 'water' 1
+create img wts2 'water' 2
+create img wts3 'water' 3
+
+wt0 width 40
+wt0 height 40
+wt0 img wts0
+wt0 pointer w
+wt0 zpos -1
+
+wt1 width 40
+wt1 height 40
+wt1 img wts1
+wt1 pointer null
+
+wt2 width 40
+wt2 height 40
+wt2 img wts2
+wt2 pointer null
+
+wt3 width 40
+wt3 height 40
+wt3 img wts3
+wt3 pointer null
+
+fix1 width 40
+fix1 height 40
+fix1 img gts1
+fix1 pointer 9
+fix1 zpos 2
+
+create mapping map_ 1920,1080
+
+map_ spacing[x] 40
+map_ spacing[y] 40
+
+
+map_ set[mapString]  27
+n
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+w0000000000000000000000000000000000000000000000w
+w0000000002000000000000000200000000000000000000w
+w0000000000000000000000000000000000000000000000w
+w0000000020000000000000000000000000000000000000w
+w0000000000000000000000000002000000000000000000w
+w0000000000000002000000000000000000000000000000w
+w0000000000000000000000000000000002000000000000w
+w0000000000002000000000000000000000000000000000w
+w0000000000000000000000000200000000000000000000w
+w0000000000200000000000000000000000200000000000w
+w0000000000000000000000000000000000020000000000w
+w0000000000000000000000000000000000000000000000w
+w0000000000200000000000990000000000000000000000w
+w0000000000000000000000000000000000000000000000w
+w0000000000000000000000000000000000000000000000w
+w0000000000000000000000000000000002000000000000w
+w0000000000200000000000000000000000000000000000w
+w0000000000000000000000000000000020000000000000w
+w0000200000000020000000000000000000000000000000w
+w0000000000000000000000000000000000000000000000w
+w0000000020000000000000000200000000000000000000w
+w0000000000000000000000000000000020000000000000w
+w0000000000002000000000000000000000000000000000w
+w0000000000000000200000000000000000000000000000w
+w0000000000000000000000000000000000000020000000w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+

@@ -1,0 +1,5 @@
+img 'C:\Users\Beytullah\TEngine\src\main\resources\assets\textures\sprout\Characters\char_base.png'
+scale 192,192
+split 48,48
+count 16
+spacing 0
