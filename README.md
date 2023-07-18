@@ -56,27 +56,23 @@ configs. for example ;
 ```
 
 # Features
-H: Have
-N: Not-Have
-P: Planned
-O: On Development
-
-Input (Keyboard\Mouse [Joystick Planned]) ; H
-Window Handling (GLFW) ; H
-Physics (Box2D) ; H
-2D Rendering ; H
-Scene System ; H
-Mapping (T2DMap) ; H
-Sprite Sheet (T2DSpriteSheet) ; H
-Animation (T2DAnimation) ; H
-Font Rendering ; P
-Debug Drawing ; H
-I\O (TIOStream) ; H
-Network-Multiplayer ; N
-Component System ; H
-Logger (TLogger) ; H
-File Handling ; H
-
+| Feature  | State |
+| ------------- | ------------- |
+| Input (Keyboard\Mouse [Joystick Planned])  | Have |
+| Window Handling (GLFW)  | Have |
+| Physics (Box2D)  | Have |
+| 2D Rendering   | Have  |
+| Scene System   | Have  |
+| Mapping (T2DMap)   | Have  |
+| Sprite Sheet   | Have  |
+| Font Renderer   | Planned  |
+| Animation   | Have  |
+| Debug Drawing   | Have  |
+| I\O   | Have  |
+| Online-Multiplayer   | Have  |
+| Component System   | Have  |
+| Logger   | Have  |
+| File Handling   | Have  |
 # Demo Games
 2D Non-Platform Game
 https://github.com/TDevvv/TEngine/assets/46716625/391420b1-7a90-4fc2-b389-99c9babab129
