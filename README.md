@@ -1,4 +1,3 @@
-Turkish: merhabalar eğer türkseniz ve ingilizce bilmiyorsanız oyun motoru hakkında size yardımcı olmaktan memnuniyet duyarım yardıma ihtiyacınız olursa mailime yazabilirsiniz.(mail altta yazıyor.)
 
 if you make a game with tengine you dont need to pay me or something, just show me your game. mail: eneskobal18@gmail.com
 
