@@ -1,5 +1,6 @@
 
-if you make a game with tengine you dont need to pay me or something, just show me your game. mail: eneskobal18@gmail.com
+if you make a game with tengine you dont need to pay me or something, just show me your game. mail:thundergodv07@gmail.com
+
 
 # TEngine
 This is a 2D game engine that written on top of LWJGL 3. [Thunder Engine]
